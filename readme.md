@@ -7,4 +7,4 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<h3>Лабораторная работа студентов группы ПЗ1721 с дисциплины "Разработка многоплатформенного ПО"</h3>
+<h3>Дипломный проект по теме: "Автоматизация создания тестовых заданий"</h3>
